@@ -1,5 +1,4 @@
 <?php
-include('constants.php');
 	
 function make_meta($page_name) {
 	echo '
