@@ -26,3 +26,12 @@ aside {
 footer {
 	margin: 20px 0 40px;
 }
+
+.quote-image {
+	display:inline;
+	position:absolute;
+}
+
+.quote-paragraph {
+	margin-left: 110px;
+}
